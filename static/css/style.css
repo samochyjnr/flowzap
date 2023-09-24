@@ -8569,26 +8569,26 @@ h1, h2, h3, h4, h5,
         color: #fff !important; }
 
 .ftco-intro {
-  background: #c6ecd9; }
+  background: #3d0099; }
   .ftco-intro .intro {
     z-index: 0;
     position: relative; }
 
 .intro {
   width: 100%;
-  background: #c6ecd9;
+  background: #3d0099;
   padding: 30px; }
   .intro.color-1 {
-    background: #c6ecd9; }
+    background: #3d0099; }
   .intro.color-2 {
-    background: #c6ecd9; }
+    background: #3d0099; }
   .intro .icon {
     margin-right: 20px; }
     .intro .icon span {
       font-size: 60px;
       color: #fff; }
   .intro .text {
-    color: rgba(255, 255, 255, 0.8); }
+    color: rgba(0, 51, 153); }
     .intro .text h2 {
       font-size: 18px;
       font-weight: 500;
